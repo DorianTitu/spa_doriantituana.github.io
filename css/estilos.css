@@ -1,0 +1,32 @@
+.bg-col-primario {background: #A3A656}
+.bg-col-secundario {background: #f2f6f6;}
+.bg-col-terciario {background: #384004;}
+.h-cajetin-1{height: 70px;}
+.h-cajetin-2{height: 665px;}
+.h-cajetin-3{height: 100px;}
+/*.h-cajetin-4{height: 640px;}*/
+.h-cajetin-5{height: 770px;}
+.h-cajetin-6{height: 97px;}
+
+.h-caj-cart-serv{height: 70px;}
+
+.alig-title{position: relative; top: 50%; transform: translateY(-50%);}
+.alig-cont{position: relative; left: 50%; transform: translateX(-50%);}
+
+.gg{width: 100%;margin-left: 10px;}
+.tipografia-tit1{font-family: 'Romanesco'; font-size: 48px; font-weight: bold;}
+.tipografia-tit2{font-family: 'Inter'; font-size: 32px; font-weight: bold;}
+.tipografia-mini{font-family: 'Inter'; font-size: 14px; font-weight: normal; text-transform: uppercase;}
+.tipografia-menu{font-family: 'Inter'; font-size: 16px; font-weight: normal;}
+.tipografia-norm{font-family: 'Inter'; font-size: 16px; font-weight: normal;}
+.tipografia-place{font-family: 'Inter'; font-size: 16px; font-weight: normal; color: #9E9A9A;}
+
+.marg-1{margin-top: 50px; margin-bottom: 60px;}
+
+
+
+/*@media (min-width: 425px){
+    body{
+        background: #AAAAAA;
+    }
+}*/
